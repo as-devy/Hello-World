@@ -1,4 +1,5 @@
 
+
 <h1 align="center">Hi 👋, I'm Omar Elbedwehy</h1>
 <h3 align="center">Full Stack Developer && UI/UX Designer && Web PenTest</h3>
 <p align="center">
@@ -15,6 +16,13 @@
 </p>
 
 ### 💻 Languages and Tools
+
+#### 🛡️ TryHackMe
+<p align="center">
+  <a href="https://tryhackme.com/p/omar_elbedwehy" target="_blank">
+    <img src="https://tryhackme.com/api/badges/public-profile?userPublicId=2432994" alt="TryHackMe Badge" height="80"/>
+  </a>
+</p>
 
 #### 🖌 Frontend
 <p align="center">
