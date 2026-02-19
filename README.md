@@ -15,14 +15,12 @@
   </a>
 </p>
 
-### 💻 Languages and Tools
-
 #### 🛡️ TryHackMe
-<p align="center">
-  <a href="https://tryhackme.com/p/omar_elbedwehy" target="_blank">
-    <img src="https://tryhackme.com/api/badges/public-profile?userPublicId=2432994" alt="TryHackMe Badge" height="80"/>
-  </a>
-</p>
+<div align="center">
+    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2432994" style='border:none;'></iframe>
+</div>
+
+### 💻 Languages and Tools
 
 #### 🖌 Frontend
 <p align="center">
