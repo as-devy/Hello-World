@@ -1,10 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Omar Elbedwehy</h1>
 <h3 align="center">Full Stack Developer && UI/UX Designer && Web PenTest</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=as-devy&label=Profile%20views&color=0e75b6&style=flat" alt="as-devy" />
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/omar-elbedwehy-981a65328" target="_blank">
