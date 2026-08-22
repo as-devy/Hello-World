@@ -8,11 +8,6 @@
   </a>
 </p>
 
-#### 🛡️ TryHackMe
-<div align="center">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/MITMX.png" alt="Your Image Badge" />
-</div>
-
 ### 💻 Languages and Tools
 
 #### 🖌 Frontend
